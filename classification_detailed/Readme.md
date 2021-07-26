@@ -4,4 +4,4 @@
 
 ## 应用
 
-运行for_test.py，屏幕输出data.csv中每一条有效信息更细粒度的分类及对应的行数。
+运行for_test_detailed.py，屏幕输出data.csv中每一条有效信息更细粒度的分类及对应的行数。
